@@ -14,9 +14,9 @@ else:
 	if(b>a) and (b>c):
 	    if (c>a):
 			print "El primer valor és el más pequeño."
-        else:
+            else:
 			print "El segundo valor és el más grande."
-    else:
+        else:
 		if (a>b):
 		    print "El segundo valor es el más pequeño"
 		else: 
