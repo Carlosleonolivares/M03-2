@@ -13,7 +13,7 @@ mano_extra=cajon2
 cajon2=cajon4
 cajon4=mano_extra
 
-print "cajon1"
-print "cajon2"
-print "cajon3"
-print "cajon4"
+print "cajon1:",cajon1
+print "cajon2:",cajon2
+print "cajon3:",cajon3
+print "cajon4:",cajon4
