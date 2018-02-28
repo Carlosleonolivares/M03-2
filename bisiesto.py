@@ -18,14 +18,14 @@ elif(valor<0):
         if(valor%400==0 or 400%valor==0):
             print -valor,"a.C es año bisiesto"
         else:
-				print -valor,"a.C no es año bisiesto"
+	    print -valor,"a.C no es año bisiesto"
     else:
         print -valor,"a.C no es año bisiesto"
 else:
-	if(valor>0 and valor%4==0):
-		if(valor%400==0 or 400%valor==0):
-			print valor,"es año bisiesto"
-		else:
-			print valor,"no es año bisiesto"
-	else:
-		print valor,"no es año bisiesto"
+    if(valor>0 and valor%4==0):
+        if(valor%400==0 or 400%valor==0):
+            print valor,"es año bisiesto"
+        else:
+            print valor,"no es año bisiesto"
+    else:
+        print valor,"no es año bisiesto"
